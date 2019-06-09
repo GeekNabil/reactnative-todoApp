@@ -1,6 +1,5 @@
 # React Native Todo App
 
-This is the repository is for the tutorial ["React Native Tutorial - Arabic"](http://www.abolkog.com/courses/view/react-native-tutorial) @abolkog.com
 
 # The App
   - The app is a simple Todo App hooked to a back-end hosted on heroku
